@@ -1,0 +1,26 @@
+body{
+    background-color: #d9e4d3;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #09829b;
+    font-size: 40px;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    color: rgb(74, 74, 74);
+    margin-top: -20px;
+    font-size: 23px;
+}
+img{
+    width: 100%;
+}
+iframe{
+    position: relative;
+    top: 20px;
+}
+.contact{
+    position: relative;
+    top: 20px;
+}
